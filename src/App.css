@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: #282c34;
+
+  
+  color: white;
+}
+.navbar{
+  display: flex;
+}
+.hero{
+  background-image: url(./cade-roberts-EpIUbeFrqwQ-unsplash.jpg);
+  height: 700px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.heroText{
+  width: 40%;
+  text-align: left;
+  margin-top: 40px;
+}
+.selector{
+  margin-top: 100px;
+
+}
+.selectinfo{
+  background-color: white;
+}
+.cards{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+}
+.stats{
+  width: 100%;
+  text-align: left;
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  
+}
+.row{
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+}
+.footer{
+  
+}
+.links{
+  display: flex;
+}
