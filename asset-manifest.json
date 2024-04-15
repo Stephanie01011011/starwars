@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/starwars/static/css/main.d51a4bc8.css",
+    "main.css": "/starwars/static/css/main.7de4bc1b.css",
     "main.js": "/starwars/static/js/main.4cd50f13.js",
     "static/media/cade-roberts-EpIUbeFrqwQ-unsplash.jpg": "/starwars/static/media/cade-roberts-EpIUbeFrqwQ-unsplash.95fb474b19902ff838b1.jpg",
     "index.html": "/starwars/index.html",
-    "main.d51a4bc8.css.map": "/starwars/static/css/main.d51a4bc8.css.map",
+    "main.7de4bc1b.css.map": "/starwars/static/css/main.7de4bc1b.css.map",
     "main.4cd50f13.js.map": "/starwars/static/js/main.4cd50f13.js.map"
   },
   "entrypoints": [
-    "static/css/main.d51a4bc8.css",
+    "static/css/main.7de4bc1b.css",
     "static/js/main.4cd50f13.js"
   ]
 }
