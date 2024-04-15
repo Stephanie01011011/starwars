@@ -2,8 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import { Route, Routes, BrowserRouter as Router } from 'react-router-dom'
-import Nav from './components/Nav';
 import { createTheme, ThemeProvider } from '@mui/material';
 
 const theme = createTheme({

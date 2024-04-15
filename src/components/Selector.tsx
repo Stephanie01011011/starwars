@@ -43,7 +43,7 @@ function Selector() {
         <div className="displaymsg">
         <Typography variant='h2' sx={{
             marginBottom: '30px'
-        }}>See where the universe will take you</Typography>
+        }}>See Where The Universe Will Take You</Typography>
         <Button variant='contained' sx={{padding: '20px', width: '400px', marginBottom: '60px'}} onClick={() => {setShow(true)}}>Start Your Adventure</Button>
         </div>
         }
