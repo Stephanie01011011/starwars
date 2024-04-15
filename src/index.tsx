@@ -18,16 +18,11 @@ const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
-  <Router>
+  
     <ThemeProvider theme={theme}>
-    <Routes>
-   
-      <Route path='/' element={<App />}/>
-      <Route path='/about' element={<App />}/>
-      <Route path='/another' element={<App />}/>
-    </Routes>
+      <App />
     </ThemeProvider>
-  </Router>
+ 
 );
 
 // If you want to start measuring performance in your app, pass a function
